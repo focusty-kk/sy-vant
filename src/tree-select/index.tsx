@@ -7,14 +7,14 @@ import { CreateElement, RenderContext } from 'vue/types';
 import { DefaultSlots } from '../utils/types';
 
 export type TreeSelectItem = {
-  text: string;
+  label: string;
   disabled?: boolean;
   children: TreeSelectChildren[];
 };
 
 export type TreeSelectChildren = {
-  id: number;
-  text: string;
+  value: number;
+  label: string;
   disabled?: boolean;
 };
 
@@ -57,18 +57,18 @@ function TreeSelect(
               }
             }}
           >
-            {item.text}
+            {item.label}
           </div>
         ))}
       </div>
       <div class={bem('content')}>
         {subItems.map(item => (
           <div
-            key={item.id}
+            key={item.value}
             class={[
               'van-ellipsis',
               bem('item', {
-                active: activeId === item.id,
+                active: activeId === item.value,
                 disabled: item.disabled
               })
             ]}
@@ -78,8 +78,8 @@ function TreeSelect(
               }
             }}
           >
-            {item.text}
-            {activeId === item.id && (
+            {item.label}
+            {activeId === item.value && (
               <Icon name="checked" size="16px" class={bem('selected')} />
             )}
           </div>
