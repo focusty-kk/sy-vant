@@ -45,7 +45,10 @@ function Cell(
 
   const Title = showTitle && (
     <div class={[bem('title'), props.titleClass]} style={props.titleStyle}>
-      {slots.title ? slots.title() : <span>{title}</span>}
+      {slots.title ? slots.title() : <div class={bem('title-wrap')}>
+        <span class={bem('title-wrap-text')} >{title}</span>
+        <span class={bem('title-wrap-colon')} >：</span>
+      </div>}
       {Label}
     </div>
   );

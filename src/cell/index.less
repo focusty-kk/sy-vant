@@ -28,7 +28,20 @@
     line-height: @cell-label-line-height;
   }
 
-  &__title,
+  &__title {
+    flex: 1;
+
+    &-wrap {
+      &-text {
+        float: left;
+      }
+
+      &-colon {
+        float: right;
+      }
+    }
+  }
+
   &__value {
     flex: 1;
   }

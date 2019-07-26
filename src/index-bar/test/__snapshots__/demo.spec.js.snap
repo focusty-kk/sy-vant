@@ -19,13 +19,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">A</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -33,13 +39,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">B</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -47,13 +59,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">C</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -61,13 +79,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">D</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -75,13 +99,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">E</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -89,13 +119,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">F</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -103,13 +139,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">G</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -117,13 +159,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">H</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -131,13 +179,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">I</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -145,13 +199,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">J</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -159,13 +219,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">K</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -173,13 +239,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">L</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -187,13 +259,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">M</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -201,13 +279,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">N</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -215,13 +299,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">O</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -229,13 +319,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">P</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -243,13 +339,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">Q</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -257,13 +359,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">R</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -271,13 +379,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">S</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -285,13 +399,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">T</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -299,13 +419,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">U</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -313,13 +439,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">V</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -327,13 +459,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">W</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -341,13 +479,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">X</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -355,13 +499,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">Y</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
           <div>
@@ -369,13 +519,19 @@ exports[`renders demo correctly 1`] = `
               <div class="van-index-anchor">Z</div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
             <div class="van-cell">
-              <div class="van-cell__title"><span>文本</span></div>
+              <div class="van-cell__title">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">文本</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
             </div>
           </div>
         </div>

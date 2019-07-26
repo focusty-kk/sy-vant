@@ -65,11 +65,18 @@ exports[`renders demo correctly 1`] = `
     </div>
   </div>
   <div>
-    <div class="van-cell van-cell--clickable van-field">
-      <div class="van-cell__title van-field__label"><span>城市</span></div>
-      <div class="van-cell__value">
-        <div class="van-field__body"><input type="text" placeholder="选择城市" readonly="readonly" class="van-field__control"></div>
+    <div>
+      <div class="van-cell van-cell--clickable van-field">
+        <div class="van-cell__title van-field__label">
+          <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">城市</span><span class="van-cell__title-wrap-colon">:</span></div>
+        </div>
+        <div class="van-cell__value">
+          <div class="van-field__body-wrap">
+            <div class="van-field__body"><input type="text" placeholder="选择城市" readonly="readonly" class="van-field__control"></div>
+          </div>
+        </div>
       </div>
+      <div class="van-field__error-message-wrap"></div>
     </div>
     <!---->
   </div>

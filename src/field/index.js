@@ -281,41 +281,47 @@ export default createComponent({
     }
 
     return (
-      <Cell
-        icon={this.leftIcon}
-        size={this.size}
-        title={this.label}
-        center={this.center}
-        border={this.border}
-        isLink={this.isLink}
-        required={this.required}
-        clickable={this.clickable}
-        titleStyle={this.labelStyle}
-        titleClass={[bem('label', labelAlign), this.labelClass]}
-        arrowDirection={this.arrowDirection}
-        class={bem({
-          error: this.error,
-          disabled: this.$attrs.disabled,
-          [`label-${labelAlign}`]: labelAlign,
-          'min-height': this.type === 'textarea' && !this.autosize
-        })}
-        scopedSlots={scopedSlots}
-        onClick={this.onClick}
-      >
-        <div class={bem('body')}>
-          {this.renderInput()}
-          {this.showClear && (
-            <Icon name="clear" class={bem('clear')} onTouchstart={this.onClear} />
-          )}
-          {this.renderRightIcon()}
-          {slots('button') && <div class={bem('button')}>{slots('button')}</div>}
-        </div>
-        {this.errorMessage && (
-          <div class={bem('error-message', this.errorMessageAlign)}>
-            {this.errorMessage}
+      <div>
+        <Cell
+          icon={this.leftIcon}
+          size={this.size}
+          title={this.label}
+          center={this.center}
+          border={this.border}
+          isLink={this.isLink}
+          required={this.required}
+          clickable={this.clickable}
+          titleStyle={this.labelStyle}
+          titleClass={[bem('label', labelAlign), this.labelClass]}
+          arrowDirection={this.arrowDirection}
+          class={bem({
+            error: this.error,
+            disabled: this.$attrs.disabled,
+            [`label-${labelAlign}`]: labelAlign,
+            'min-height': this.type === 'textarea' && !this.autosize
+          })}
+          scopedSlots={scopedSlots}
+          onClick={this.onClick}
+        >
+          <div class={bem('body-wrap')}>
+            <div class={bem('body')}>
+              {this.renderInput()}
+              {this.showClear && (
+                <Icon name="clear" class={bem('clear')} onTouchstart={this.onClear} />
+              )}
+              {this.renderRightIcon()}
+              {slots('button') && <div class={bem('button')}>{slots('button')}</div>}
+            </div>
           </div>
-        )}
-      </Cell>
+        </Cell>
+        <div class={bem('error-message-wrap')} >
+          {this.errorMessage && (
+            <div class={bem('error-message', this.errorMessageAlign)}>
+              {this.errorMessage}
+            </div>
+          )}
+        </div>
+      </div>
     );
   }
 });

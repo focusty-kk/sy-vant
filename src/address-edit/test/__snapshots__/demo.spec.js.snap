@@ -4,42 +4,79 @@ exports[`renders demo correctly 1`] = `
 <div>
   <div>
     <div class="van-address-edit">
-      <div class="van-cell van-field">
-        <div class="van-cell__title van-field__label"><span>姓名</span></div>
-        <div class="van-cell__value">
-          <div class="van-field__body"><input type="text" placeholder="收货人姓名" class="van-field__control"></div>
-        </div>
-      </div>
-      <div class="van-cell van-field">
-        <div class="van-cell__title van-field__label"><span>电话</span></div>
-        <div class="van-cell__value">
-          <div class="van-field__body"><input type="tel" placeholder="收货人手机号" class="van-field__control"></div>
-        </div>
-      </div>
-      <div class="van-cell van-field">
-        <div class="van-cell__title van-field__label"><span>地区</span></div>
-        <div class="van-cell__value">
-          <div class="van-field__body"><input type="text" placeholder="选择省 / 市 / 区" readonly="readonly" class="van-field__control"></div>
-        </div>
-      </div>
-      <div class="van-cell van-address-edit-detail">
-        <div class="van-cell__value van-cell__value--alone">
-          <div class="van-cell van-field">
-            <div class="van-cell__title van-field__label"><span>详细地址</span></div>
-            <div class="van-cell__value">
-              <div class="van-field__body"><textarea rows="1" maxlength="200" placeholder="街道门牌、楼层房间号等信息" class="van-field__control" style="height: auto;"></textarea></div>
+      <div>
+        <div class="van-cell van-field">
+          <div class="van-cell__title van-field__label">
+            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">姓名</span><span class="van-cell__title-wrap-colon">:</span></div>
+          </div>
+          <div class="van-cell__value">
+            <div class="van-field__body-wrap">
+              <div class="van-field__body"><input type="text" placeholder="收货人姓名" class="van-field__control"></div>
             </div>
           </div>
         </div>
+        <div class="van-field__error-message-wrap"></div>
       </div>
-      <div class="van-cell van-field">
-        <div class="van-cell__title van-field__label"><span>邮政编码</span></div>
-        <div class="van-cell__value">
-          <div class="van-field__body"><input type="tel" maxlength="6" placeholder="邮政编码" class="van-field__control"></div>
+      <div>
+        <div class="van-cell van-field">
+          <div class="van-cell__title van-field__label">
+            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">电话</span><span class="van-cell__title-wrap-colon">:</span></div>
+          </div>
+          <div class="van-cell__value">
+            <div class="van-field__body-wrap">
+              <div class="van-field__body"><input type="tel" placeholder="收货人手机号" class="van-field__control"></div>
+            </div>
+          </div>
+        </div>
+        <div class="van-field__error-message-wrap"></div>
+      </div>
+      <div>
+        <div class="van-cell van-field">
+          <div class="van-cell__title van-field__label">
+            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">地区</span><span class="van-cell__title-wrap-colon">:</span></div>
+          </div>
+          <div class="van-cell__value">
+            <div class="van-field__body-wrap">
+              <div class="van-field__body"><input type="text" placeholder="选择省 / 市 / 区" readonly="readonly" class="van-field__control"></div>
+            </div>
+          </div>
+        </div>
+        <div class="van-field__error-message-wrap"></div>
+      </div>
+      <div class="van-cell van-address-edit-detail">
+        <div class="van-cell__value van-cell__value--alone">
+          <div>
+            <div class="van-cell van-field">
+              <div class="van-cell__title van-field__label">
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">详细地址</span><span class="van-cell__title-wrap-colon">:</span></div>
+              </div>
+              <div class="van-cell__value">
+                <div class="van-field__body-wrap">
+                  <div class="van-field__body"><textarea rows="1" maxlength="200" placeholder="街道门牌、楼层房间号等信息" class="van-field__control" style="height: auto;"></textarea></div>
+                </div>
+              </div>
+            </div>
+            <div class="van-field__error-message-wrap"></div>
+          </div>
         </div>
       </div>
+      <div>
+        <div class="van-cell van-field">
+          <div class="van-cell__title van-field__label">
+            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">邮政编码</span><span class="van-cell__title-wrap-colon">:</span></div>
+          </div>
+          <div class="van-cell__value">
+            <div class="van-field__body-wrap">
+              <div class="van-field__body"><input type="tel" maxlength="6" placeholder="邮政编码" class="van-field__control"></div>
+            </div>
+          </div>
+        </div>
+        <div class="van-field__error-message-wrap"></div>
+      </div>
       <div class="van-cell van-cell--center van-switch-cell">
-        <div class="van-cell__title"><span>设为默认收货地址</span></div>
+        <div class="van-cell__title">
+          <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">设为默认收货地址</span><span class="van-cell__title-wrap-colon">:</span></div>
+        </div>
         <div class="van-cell__value">
           <div role="switch" aria-checked="false" class="van-switch" style="font-size: 24px;">
             <div class="van-switch__node"></div>

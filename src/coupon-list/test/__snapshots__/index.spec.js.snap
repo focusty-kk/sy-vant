@@ -2,7 +2,9 @@
 
 exports[`render coupon cell 1`] = `
 <div class="van-cell van-cell--clickable van-coupon-cell">
-  <div class="van-cell__title"><span>优惠券</span></div>
+  <div class="van-cell__title">
+    <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">优惠券</span><span class="van-cell__title-wrap-colon">:</span></div>
+  </div>
   <div class="van-cell__value"><span>使用优惠</span></div><i class="van-icon van-icon-arrow van-cell__right-icon">
     <!----></i>
 </div>
@@ -10,7 +12,9 @@ exports[`render coupon cell 1`] = `
 
 exports[`render coupon cell with coupon 1`] = `
 <div class="van-cell van-cell--clickable van-coupon-cell">
-  <div class="van-cell__title"><span>优惠券</span></div>
+  <div class="van-cell__title">
+    <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">优惠券</span><span class="van-cell__title-wrap-colon">:</span></div>
+  </div>
   <div class="van-cell__value van-coupon-cell--selected"><span>-¥1.00</span></div><i class="van-icon van-icon-arrow van-cell__right-icon">
     <!----></i>
 </div>
@@ -18,12 +22,17 @@ exports[`render coupon cell with coupon 1`] = `
 
 exports[`render coupon list 1`] = `
 <div class="van-coupon-list">
-  <div class="van-cell van-cell--borderless van-field van-coupon-list__field">
-    <div class="van-cell__value van-cell__value--alone">
-      <div class="van-field__body"><input type="text" placeholder="请输入优惠码" maxlength="20" class="van-field__control">
-        <div class="van-field__button"><button disabled="disabled" class="van-button van-button--danger van-button--small van-button--disabled van-coupon-list__exchange"><span class="van-button__text">兑换</span></button></div>
+  <div class="van-coupon-list__field">
+    <div class="van-cell van-cell--borderless van-field">
+      <div class="van-cell__value van-cell__value--alone">
+        <div class="van-field__body-wrap">
+          <div class="van-field__body"><input type="text" placeholder="请输入优惠码" maxlength="20" class="van-field__control">
+            <div class="van-field__button"><button disabled="disabled" class="van-button van-button--danger van-button--small van-button--disabled van-coupon-list__exchange"><span class="van-button__text">兑换</span></button></div>
+          </div>
+        </div>
       </div>
     </div>
+    <div class="van-field__error-message-wrap"></div>
   </div>
   <div class="van-tabs van-tabs--line van-coupon-list__tab">
     <div class="van-tabs__wrap van-hairline--top-bottom">
@@ -143,12 +152,17 @@ exports[`render disabled coupon 1`] = `
 
 exports[`render empty coupon list 1`] = `
 <div class="van-coupon-list">
-  <div class="van-cell van-cell--borderless van-field van-coupon-list__field">
-    <div class="van-cell__value van-cell__value--alone">
-      <div class="van-field__body"><input type="text" placeholder="请输入优惠码" maxlength="20" class="van-field__control">
-        <div class="van-field__button"><button disabled="disabled" class="van-button van-button--danger van-button--small van-button--disabled van-coupon-list__exchange"><span class="van-button__text">兑换</span></button></div>
+  <div class="van-coupon-list__field">
+    <div class="van-cell van-cell--borderless van-field">
+      <div class="van-cell__value van-cell__value--alone">
+        <div class="van-field__body-wrap">
+          <div class="van-field__body"><input type="text" placeholder="请输入优惠码" maxlength="20" class="van-field__control">
+            <div class="van-field__button"><button disabled="disabled" class="van-button van-button--danger van-button--small van-button--disabled van-coupon-list__exchange"><span class="van-button__text">兑换</span></button></div>
+          </div>
+        </div>
       </div>
     </div>
+    <div class="van-field__error-message-wrap"></div>
   </div>
   <div class="van-tabs van-tabs--line van-coupon-list__tab">
     <div class="van-tabs__wrap van-hairline--top-bottom">
