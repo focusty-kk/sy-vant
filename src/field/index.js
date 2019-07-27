@@ -281,7 +281,7 @@ export default createComponent({
     }
 
     return (
-      <div>
+      < div class = "van-cell__wrap" >
         <Cell
           icon={this.leftIcon}
           size={this.size}

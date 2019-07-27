@@ -3,7 +3,7 @@
 exports[`render coupon cell 1`] = `
 <div class="van-cell van-cell--clickable van-coupon-cell">
   <div class="van-cell__title">
-    <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">优惠券</span><span class="van-cell__title-wrap-colon">:</span></div>
+    <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">优惠券</span><span class="van-cell__title-wrap-colon">：</span></div>
   </div>
   <div class="van-cell__value"><span>使用优惠</span></div><i class="van-icon van-icon-arrow van-cell__right-icon">
     <!----></i>
@@ -13,7 +13,7 @@ exports[`render coupon cell 1`] = `
 exports[`render coupon cell with coupon 1`] = `
 <div class="van-cell van-cell--clickable van-coupon-cell">
   <div class="van-cell__title">
-    <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">优惠券</span><span class="van-cell__title-wrap-colon">:</span></div>
+    <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">优惠券</span><span class="van-cell__title-wrap-colon">：</span></div>
   </div>
   <div class="van-cell__value van-coupon-cell--selected"><span>-¥1.00</span></div><i class="van-icon van-icon-arrow van-cell__right-icon">
     <!----></i>

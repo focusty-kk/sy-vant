@@ -45,7 +45,7 @@ exports[`label-class prop 1`] = `
 <div>
   <div class="van-cell van-field">
     <div class="van-cell__title van-field__label custom-label-class">
-      <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">Label</span><span class="van-cell__title-wrap-colon">:</span></div>
+      <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">Label</span><span class="van-cell__title-wrap-colon">：</span></div>
     </div>
     <div class="van-cell__value">
       <div class="van-field__body-wrap">
@@ -61,7 +61,7 @@ exports[`label-width prop with unit 1`] = `
 <div>
   <div class="van-cell van-field">
     <div class="van-cell__title van-field__label" style="width: 10rem;">
-      <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">Label</span><span class="van-cell__title-wrap-colon">:</span></div>
+      <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">Label</span><span class="van-cell__title-wrap-colon">：</span></div>
     </div>
     <div class="van-cell__value">
       <div class="van-field__body-wrap">
@@ -77,7 +77,7 @@ exports[`label-width prop without unit 1`] = `
 <div>
   <div class="van-cell van-field">
     <div class="van-cell__title van-field__label" style="width: 100px;">
-      <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">Label</span><span class="van-cell__title-wrap-colon">:</span></div>
+      <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">Label</span><span class="van-cell__title-wrap-colon">：</span></div>
     </div>
     <div class="van-cell__value">
       <div class="van-field__body-wrap">

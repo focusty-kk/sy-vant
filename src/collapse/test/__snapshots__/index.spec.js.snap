@@ -5,7 +5,7 @@ exports[`disable border 1`] = `
   <div class="van-collapse-item">
     <div role="button" tabindex="0" aria-expanded="false" class="van-cell van-cell--clickable van-collapse-item__title">
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">a</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">a</span><span class="van-cell__title-wrap-colon">：</span></div>
       </div><i class="van-icon van-icon-arrow van-cell__right-icon">
         <!----></i>
     </div>
@@ -13,7 +13,7 @@ exports[`disable border 1`] = `
   <div class="van-collapse-item van-hairline--top">
     <div role="button" tabindex="0" aria-expanded="false" class="van-cell van-cell--clickable van-collapse-item__title">
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">b</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">b</span><span class="van-cell__title-wrap-colon">：</span></div>
       </div><i class="van-icon van-icon-arrow van-cell__right-icon">
         <!----></i>
     </div>
@@ -21,7 +21,7 @@ exports[`disable border 1`] = `
   <div class="van-collapse-item van-hairline--top">
     <div role="button" tabindex="0" aria-expanded="false" class="van-cell van-cell--clickable van-collapse-item__title">
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">c</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">c</span><span class="van-cell__title-wrap-colon">：</span></div>
       </div><i class="van-icon van-icon-arrow van-cell__right-icon">
         <!----></i>
     </div>
@@ -34,7 +34,7 @@ exports[`lazy render collapse content 1`] = `
   <div class="van-collapse-item" style="padding: 0px;">
     <div role="button" tabindex="0" aria-expanded="false" class="van-cell van-cell--clickable van-collapse-item__title">
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">a</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">a</span><span class="van-cell__title-wrap-colon">：</span></div>
       </div><i class="van-icon van-icon-arrow van-cell__right-icon">
         <!----></i>
     </div>
@@ -42,7 +42,7 @@ exports[`lazy render collapse content 1`] = `
   <div class="van-collapse-item van-hairline--top" style="padding: 0px;">
     <div role="button" tabindex="0" aria-expanded="true" class="van-cell van-cell--clickable van-collapse-item__title van-collapse-item__title--expanded">
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">b</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">b</span><span class="van-cell__title-wrap-colon">：</span></div>
       </div><i class="van-icon van-icon-arrow van-cell__right-icon">
         <!----></i>
     </div>

@@ -6,13 +6,13 @@ exports[`renders demo correctly 1`] = `
     <div class="van-cell-group van-hairline--top-bottom">
       <div class="van-cell">
         <div class="van-cell__title">
-          <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">:</span></div>
+          <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">：</span></div>
         </div>
         <div class="van-cell__value"><span>内容</span></div>
       </div>
       <div class="van-cell">
         <div class="van-cell__title">
-          <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">:</span></div>
+          <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">：</span></div>
           <div class="van-cell__label">描述信息</div>
         </div>
         <div class="van-cell__value"><span>内容</span></div>
@@ -22,13 +22,13 @@ exports[`renders demo correctly 1`] = `
   <div>
     <div class="van-cell van-cell--large">
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">：</span></div>
       </div>
       <div class="van-cell__value"><span>内容</span></div>
     </div>
     <div class="van-cell van-cell--large">
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">：</span></div>
         <div class="van-cell__label">描述信息</div>
       </div>
       <div class="van-cell__value"><span>内容</span></div>
@@ -38,7 +38,7 @@ exports[`renders demo correctly 1`] = `
     <div class="van-cell"><i class="van-icon van-icon-location-o van-cell__left-icon">
         <!----></i>
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">：</span></div>
       </div>
       <div class="van-cell__value"><span>内容</span></div>
     </div>
@@ -51,20 +51,20 @@ exports[`renders demo correctly 1`] = `
   <div>
     <div class="van-cell van-cell--clickable">
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">：</span></div>
       </div><i class="van-icon van-icon-arrow van-cell__right-icon">
         <!----></i>
     </div>
     <div class="van-cell van-cell--clickable">
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">：</span></div>
       </div>
       <div class="van-cell__value"><span>内容</span></div><i class="van-icon van-icon-arrow van-cell__right-icon">
         <!----></i>
     </div>
     <div class="van-cell van-cell--clickable">
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">：</span></div>
       </div>
       <div class="van-cell__value"><span>内容</span></div><i class="van-icon van-icon-arrow-down van-cell__right-icon">
         <!----></i>
@@ -73,13 +73,13 @@ exports[`renders demo correctly 1`] = `
   <div>
     <div class="van-cell van-cell--clickable">
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">：</span></div>
       </div><i class="van-icon van-icon-arrow van-cell__right-icon">
         <!----></i>
     </div>
     <div class="van-cell van-cell--clickable">
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">：</span></div>
       </div><i class="van-icon van-icon-arrow van-cell__right-icon">
         <!----></i>
     </div>
@@ -90,7 +90,7 @@ exports[`renders demo correctly 1`] = `
       <div class="van-cell-group van-hairline--top-bottom">
         <div class="van-cell">
           <div class="van-cell__title">
-            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">:</span></div>
+            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">：</span></div>
           </div>
           <div class="van-cell__value"><span>内容</span></div>
         </div>
@@ -101,7 +101,7 @@ exports[`renders demo correctly 1`] = `
       <div class="van-cell-group van-hairline--top-bottom">
         <div class="van-cell">
           <div class="van-cell__title">
-            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">:</span></div>
+            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">：</span></div>
           </div>
           <div class="van-cell__value"><span>内容</span></div>
         </div>
@@ -117,7 +117,7 @@ exports[`renders demo correctly 1`] = `
     <div class="van-cell"><i class="van-icon van-icon-shop-o van-cell__left-icon">
         <!----></i>
       <div class="van-cell__title">
-        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">:</span></div>
+        <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">单元格</span><span class="van-cell__title-wrap-colon">：</span></div>
       </div><i class="van-icon van-icon-search" style="line-height: inherit;">
         <!----></i>
     </div>

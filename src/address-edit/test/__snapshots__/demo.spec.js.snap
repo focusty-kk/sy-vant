@@ -7,7 +7,7 @@ exports[`renders demo correctly 1`] = `
       <div>
         <div class="van-cell van-field">
           <div class="van-cell__title van-field__label">
-            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">姓名</span><span class="van-cell__title-wrap-colon">:</span></div>
+            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">姓名</span><span class="van-cell__title-wrap-colon">：</span></div>
           </div>
           <div class="van-cell__value">
             <div class="van-field__body-wrap">
@@ -20,7 +20,7 @@ exports[`renders demo correctly 1`] = `
       <div>
         <div class="van-cell van-field">
           <div class="van-cell__title van-field__label">
-            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">电话</span><span class="van-cell__title-wrap-colon">:</span></div>
+            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">电话</span><span class="van-cell__title-wrap-colon">：</span></div>
           </div>
           <div class="van-cell__value">
             <div class="van-field__body-wrap">
@@ -33,7 +33,7 @@ exports[`renders demo correctly 1`] = `
       <div>
         <div class="van-cell van-field">
           <div class="van-cell__title van-field__label">
-            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">地区</span><span class="van-cell__title-wrap-colon">:</span></div>
+            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">地区</span><span class="van-cell__title-wrap-colon">：</span></div>
           </div>
           <div class="van-cell__value">
             <div class="van-field__body-wrap">
@@ -48,7 +48,7 @@ exports[`renders demo correctly 1`] = `
           <div>
             <div class="van-cell van-field">
               <div class="van-cell__title van-field__label">
-                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">详细地址</span><span class="van-cell__title-wrap-colon">:</span></div>
+                <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">详细地址</span><span class="van-cell__title-wrap-colon">：</span></div>
               </div>
               <div class="van-cell__value">
                 <div class="van-field__body-wrap">
@@ -63,7 +63,7 @@ exports[`renders demo correctly 1`] = `
       <div>
         <div class="van-cell van-field">
           <div class="van-cell__title van-field__label">
-            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">邮政编码</span><span class="van-cell__title-wrap-colon">:</span></div>
+            <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">邮政编码</span><span class="van-cell__title-wrap-colon">：</span></div>
           </div>
           <div class="van-cell__value">
             <div class="van-field__body-wrap">
@@ -75,7 +75,7 @@ exports[`renders demo correctly 1`] = `
       </div>
       <div class="van-cell van-cell--center van-switch-cell">
         <div class="van-cell__title">
-          <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">设为默认收货地址</span><span class="van-cell__title-wrap-colon">:</span></div>
+          <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">设为默认收货地址</span><span class="van-cell__title-wrap-colon">：</span></div>
         </div>
         <div class="van-cell__value">
           <div role="switch" aria-checked="false" class="van-switch" style="font-size: 24px;">

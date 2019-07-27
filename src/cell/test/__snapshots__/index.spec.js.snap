@@ -13,7 +13,7 @@ exports[`render slot 1`] = `
 exports[`title-style prop 1`] = `
 <div class="van-cell">
   <div class="van-cell__title" style="color: red;">
-    <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">title</span><span class="van-cell__title-wrap-colon">:</span></div>
+    <div class="van-cell__title-wrap"><span class="van-cell__title-wrap-text">title</span><span class="van-cell__title-wrap-colon">：</span></div>
   </div>
 </div>
 `;
